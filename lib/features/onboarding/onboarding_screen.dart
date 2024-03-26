@@ -8,7 +8,7 @@ import 'widgets/get_started_button.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});
-
+//onBoarding screen
   @override
   Widget build(BuildContext context) {
     return Scaffold(
